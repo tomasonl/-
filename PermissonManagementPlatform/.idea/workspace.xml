@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36684733-c129-4b43-b38f-78d6d54f85f9" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PermissonManagementPlatform$MainApplication.coverage" NAME="MainApplication Coverage Results" MODIFIED="1564479295815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>filterChainDefinitionMap</find>
+      <find>ka</find>
+      <find>updatePassword</find>
+      <find>shiro</find>
+      <find>root</find>
+      <find>query</find>
+      <find>open</find>
+      <find>name</find>
+      <find>roleIdList</find>
+      <find>poi</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.2\LocalRepository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W077hgQhqYcCF1rh1Nt1yzpu8X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="applica&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/application.properties&#10;SyLogi&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysLoginController.java&#10;Ka&#9;PSI&#9;JAVA://com.debug.pmp.server.config.KaptchaConfig&#10;pom.xml&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/pom.xml&#10;V&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/common/src/main/java/com/debug/pmp/common/utils/ValidatorUtil.java&#10;Val&#9;PSI&#9;JAVA://com.debug.pmp.common.utils.ValidatorUtil&#10;Dic&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/service/impl/SysDictServiceImpl.java&#10;att&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/statics/js/modules/attend/attendRecord.js&#10;a&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/templates/modules/attend/attendRecord.html&#10;attend&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/statics/js/modules/attend/attendRecord.js&#10;at&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/templates/modules/attend/attendRecord.html&#10;SysUSer&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/service/impl/SysUserServiceImpl.java&#10;Attend&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/AttendRecordController.java&#10;attendRecord.js&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/statics/js/modules/attend/attendRecord.js&#10;atten&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/templates/modules/attend/attendRecord.html&#10;attendrecord.js&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/statics/js/modules/attend/attendRecord.js&#10;attendrecord.html&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/templates/modules/attend/attendRecord.html&#10;HtmlFIl&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/common/src/main/java/com/debug/pmp/common/filter/HTMLFilter.java&#10;XssFil&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/common/src/main/java/com/debug/pmp/common/filter/XssFilter.java&#10;CommonExc&#9;PSI&#9;JAVA://com.debug.pmp.server.exception.CommonExceptionHandler&#10;SysRoleMenu&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/model/src/main/resources/mappers/SysRoleMenuDao.xml&#10;Sys&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/model/src/main/resources/mappers/SysUserDao.xml&#10;SysUserCont&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysUserController.java&#10;Userre&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/shiro/UserRealm.java&#10;SqlFi&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/common/src/main/java/com/debug/pmp/common/filter/SQLFilter.java&#10;Userreal&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/shiro/UserRealm.java&#10;SysUserDao&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/model/src/main/java/com/debug/pmp/model/mapper/SysUserDao.java&#10;dict.js&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/statics/js/modules/sys/dict.js&#10;dict.html&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/templates/modules/sys/dict.html&#10;log.js&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/statics/js/modules/sys/log.js&#10;log.html&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/templates/modules/sys/log.html&#10;Notblank&#9;PSI&#9;JAVA://javax.validation.constraints.NotBlank&#10;SysUserControlle&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysUserController.java&#10;SySUserdao&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/model/src/main/java/com/debug/pmp/model/mapper/SysUserDao.java&#10;SysUSerser&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/service/impl/SysUserServiceImpl.java&#10;SYsMenuda&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/model/src/main/resources/mappers/SysMenuDao.xml&#10;index.html&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/templates/index.html&#10;index.js&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/statics/js/index.js&#10;menu.js&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/statics/js/modules/sys/menu.js&#10;SysMenucontr&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysMenuController.java&#10;dept.html&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/templates/modules/sys/dept.html&#10;SysDepts&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/service/SysDeptService.java&#10;Sysdept.xml&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/model/src/main/resources/mappers/SysDeptDao.xml&#10;CommonUtil&#9;PSI&#9;JAVA://com.debug.pmp.common.utils.CommonUtil&#10;SysUSerdao&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/model/src/main/java/com/debug/pmp/model/mapper/SysUserDao.java&#10;SysDeptCon&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysDeptController.java&#10;sysroleser&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/service/impl/SysRoleMenuServiceImpl.java&#10;Sysmenuserviceim&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/service/impl/SysMenuServiceImpl.java&#10;SysDeptcon&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/java/com/debug/pmp/server/controller/SysDeptController.java&#10;user.html&#9;FILE&#9;file://E:/WorkSpaceTeaching/PermissonManagementPlatform/server/src/main/resources/templates/modules/sys/user.html" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.debug.pmp.server.service.impl" />
+      <recent name="com.debug.pmp.server.service" />
+      <recent name="com.debug.pmp.server.controller" />
+      <recent name="com.debug.pmp.server.config" />
+      <recent name="com.debug.pmp.common.filter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpaceTeaching\PermissonManagementPlatform\server\src\main\java\com\debug\pmp\server\common" />
+      <recent name="E:\WorkSpaceTeaching\PermissonManagementPlatform\common\src\main\java\com\debug\pmp\common\utils" />
+      <recent name="E:\WorkSpaceTeaching\PermissonManagementPlatform" />
+      <recent name="E:\WorkSpaceTeaching\PermissonManagementPlatform\common\src\main\java\com\debug\pmp\common\filter" />
+      <recent name="E:\WorkSpaceTeaching\PermissonManagementPlatform\model\src\main\resources\mappers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ShiroUtil">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="CommonUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.debug.pmp.common.utils.CommonUtil" />
+      <module name="common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug.pmp.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiroUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.debug.pmp.server.shiro.ShiroUtil" />
+      <module name="server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug.pmp.server.shiro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="PermissonManagementPlatform" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="package-upload-run" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="package" />
+                <option value="wagon:upload-single" />
+                <option value="wagon:sshexec" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.debug.pmp.server.MainApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ShiroUtil" />
+      <item itemvalue="Application.CommonUtil" />
+      <item itemvalue="Maven.package-upload-run" />
+      <item itemvalue="Spring Boot.MainApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShiroUtil" />
+        <item itemvalue="Application.CommonUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36684733-c129-4b43-b38f-78d6d54f85f9" name="Default" comment="" />
+      <created>1564372689056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564372689056</updated>
+      <workItem from="1564372690492" duration="7124000" />
+      <workItem from="1564451356081" duration="17335000" />
+      <workItem from="1564537645256" duration="15574000" />
+      <workItem from="1564623557876" duration="15589000" />
+      <workItem from="1564711639239" duration="10989000" />
+      <workItem from="1564799586729" duration="17925000" />
+      <workItem from="1564899472445" duration="17673000" />
+      <workItem from="1564967941956" duration="25719000" />
+      <workItem from="1565054879091" duration="16936000" />
+      <workItem from="1578274498305" duration="6500000" />
+      <workItem from="1578534829611" duration="341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="593" y="161" key="#Notifications" timestamp="1578274509977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="593" y="161" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1578274509977" />
+    <state x="781" y="257" key="FileChooserDialogImpl" timestamp="1578534891691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="257" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578534891691" />
+    <state width="1877" height="187" key="GridCell.Tab.0.bottom" timestamp="1578303053819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578303053819" />
+    <state width="1877" height="187" key="GridCell.Tab.0.center" timestamp="1578303053819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578303053819" />
+    <state width="1877" height="187" key="GridCell.Tab.0.left" timestamp="1578303053819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578303053819" />
+    <state width="1877" height="187" key="GridCell.Tab.0.right" timestamp="1578303053819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578303053819" />
+    <state width="1877" height="187" key="GridCell.Tab.1.bottom" timestamp="1578303053813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578303053813" />
+    <state width="1877" height="187" key="GridCell.Tab.1.center" timestamp="1578303053813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578303053813" />
+    <state width="1877" height="187" key="GridCell.Tab.1.left" timestamp="1578303053813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578303053813" />
+    <state width="1877" height="187" key="GridCell.Tab.1.right" timestamp="1578303053813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578303053813" />
+    <state x="504" y="144" key="SettingsEditor" timestamp="1578534910800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="504" y="144" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578534910800" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/impl/SysPostServiceImpl.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/controller/SysDeptController.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/controller/SysMenuController.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/service/impl/SysUserServiceImpl.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/controller/SysUserController.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/aspect/LogAspect.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/pmp/server/aspect/LogAspect.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
